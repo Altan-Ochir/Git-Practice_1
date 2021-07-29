@@ -5,4 +5,5 @@ public class Movie {
     // watching until 25 mins
 
     // added some awesome functionality into movie class
+    // done with tc100
 }
