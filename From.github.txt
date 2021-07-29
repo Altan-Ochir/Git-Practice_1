@@ -3,3 +3,4 @@ this is file I added from GitHub.com
 this is more stuff I added from Remote
 
 this is more text I am adding from GitHub.com
+this is cool commit from remote
