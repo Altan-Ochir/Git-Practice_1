@@ -1,4 +1,4 @@
-package day4;
+package day04;
 
 public class Conflict {
     // this is master branch content
